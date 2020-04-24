@@ -1,0 +1,16 @@
+{
+  "name": "firecode",
+  "version": "1.0.0",
+  "description": "leitor de regras",
+  "main": "index.js",
+  "scripts": {
+    "test": "firecode start"
+  },
+  "keywords": [
+    "compilador",
+    "for",
+    "rules"
+  ],
+  "author": "Adam Teodoro",
+  "license": "MIT"
+}
